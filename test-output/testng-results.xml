@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-15T15:00:43 IST" name="Suite" finished-at="2025-08-15T15:00:43 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2025-08-15T15:00:43 IST" name="Test" finished-at="2025-08-15T15:00:43 IST" duration-ms="66">
+      <class name="test.HelloWorld">
+        <test-method signature="printHello()[pri:0, instance:test.HelloWorld@77888435]" started-at="2025-08-15T15:00:43 IST" name="printHello" finished-at="2025-08-15T15:00:43 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHello -->
+      </class> <!-- test.HelloWorld -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
